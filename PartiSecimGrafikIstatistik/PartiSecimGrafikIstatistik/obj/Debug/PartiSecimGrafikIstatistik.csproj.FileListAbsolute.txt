@@ -1,0 +1,12 @@
+C:\Users\huseyinkaradana\source\repos\PartiSecimGrafikIstatistik\PartiSecimGrafikIstatistik\bin\Debug\PartiSecimGrafikIstatistik.exe.config
+C:\Users\huseyinkaradana\source\repos\PartiSecimGrafikIstatistik\PartiSecimGrafikIstatistik\bin\Debug\PartiSecimGrafikIstatistik.exe
+C:\Users\huseyinkaradana\source\repos\PartiSecimGrafikIstatistik\PartiSecimGrafikIstatistik\bin\Debug\PartiSecimGrafikIstatistik.pdb
+C:\Users\huseyinkaradana\source\repos\PartiSecimGrafikIstatistik\PartiSecimGrafikIstatistik\obj\Debug\PartiSecimGrafikIstatistik.csproj.AssemblyReference.cache
+C:\Users\huseyinkaradana\source\repos\PartiSecimGrafikIstatistik\PartiSecimGrafikIstatistik\obj\Debug\PartiSecimGrafikIstatistik.csproj.SuggestedBindingRedirects.cache
+C:\Users\huseyinkaradana\source\repos\PartiSecimGrafikIstatistik\PartiSecimGrafikIstatistik\obj\Debug\PartiSecimGrafikIstatistik.Form1.resources
+C:\Users\huseyinkaradana\source\repos\PartiSecimGrafikIstatistik\PartiSecimGrafikIstatistik\obj\Debug\PartiSecimGrafikIstatistik.FrmGrafikler.resources
+C:\Users\huseyinkaradana\source\repos\PartiSecimGrafikIstatistik\PartiSecimGrafikIstatistik\obj\Debug\PartiSecimGrafikIstatistik.Properties.Resources.resources
+C:\Users\huseyinkaradana\source\repos\PartiSecimGrafikIstatistik\PartiSecimGrafikIstatistik\obj\Debug\PartiSecimGrafikIstatistik.csproj.GenerateResource.cache
+C:\Users\huseyinkaradana\source\repos\PartiSecimGrafikIstatistik\PartiSecimGrafikIstatistik\obj\Debug\PartiSecimGrafikIstatistik.csproj.CoreCompileInputs.cache
+C:\Users\huseyinkaradana\source\repos\PartiSecimGrafikIstatistik\PartiSecimGrafikIstatistik\obj\Debug\PartiSecimGrafikIstatistik.exe
+C:\Users\huseyinkaradana\source\repos\PartiSecimGrafikIstatistik\PartiSecimGrafikIstatistik\obj\Debug\PartiSecimGrafikIstatistik.pdb
